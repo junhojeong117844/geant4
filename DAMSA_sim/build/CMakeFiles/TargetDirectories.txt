@@ -1,0 +1,4 @@
+/Users/junho/geant4/DAMSA_sim/build/CMakeFiles/DAMSA.dir
+/Users/junho/geant4/DAMSA_sim/build/CMakeFiles/DAMSA_sim.dir
+/Users/junho/geant4/DAMSA_sim/build/CMakeFiles/edit_cache.dir
+/Users/junho/geant4/DAMSA_sim/build/CMakeFiles/rebuild_cache.dir
